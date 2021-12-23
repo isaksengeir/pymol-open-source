@@ -10,7 +10,7 @@ The commercial PyMOL product ("Incentive PyMOL") with maintenance and support is
 
 ## Installation
 
-See [INSTALL](INSTALL).
+See [INSTALL](INSTALL.md).
 
 ## Contributing
 
