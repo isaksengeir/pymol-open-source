@@ -3,6 +3,14 @@
 INSTALLATION VIA COMPILATION 
 ----------------------------------------------------------------------
 
+I have prepared I `YAML` file so that a compile-ready conda environment
+can be created quikly. 
+```
+conda env create --file conda-pymol.yml
+conda activate conda-pymol
+python setup.py install --prefix=/somepath
+```
+
 See also: http://pymolwiki.org/index.php/Linux_Install
 
 REQUIREMENTS
